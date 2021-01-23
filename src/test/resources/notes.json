@@ -1,0 +1,2698 @@
+[
+  {
+    "beat": 0,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 0,
+    "name": "shaker",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.25,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.3
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 0,
+    "name": "mk-hats",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.25,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 0,
+    "name": "dl-arcana",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.75,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 0,
+    "name": "conga",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.75,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.25
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 0,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 0,
+    "duration": 0.25,
+    "name": "tb303",
+    "midinote": 53,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 0,
+    "duration": 1,
+    "name": "bass8",
+    "midinote": 53,
+    "amp": 0.7,
+    "params": {},
+    "fxs": {
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.4,
+              "max": 0.5,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 0,
+    "duration": 0.5,
+    "name": "piano",
+    "midinote": 65,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 0.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 0.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 0.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 1,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 1,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 1.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 1.25,
+    "duration": 0.25,
+    "name": "piano",
+    "midinote": 68,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 1.5,
+    "name": "mk-plummet-Gm",
+    "beats": 2,
+    "startBeat": 0,
+    "amp": 0.75,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {},
+    "track": 1
+  },
+  {
+    "beat": 1.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 1.5,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 53,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 1.5,
+    "duration": 0.25,
+    "name": "tb303",
+    "midinote": 56,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 1.5,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 56,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 1.5,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 60,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 1.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 2,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 2,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 2,
+    "duration": 1,
+    "name": "bass8",
+    "midinote": 53,
+    "amp": 0.5,
+    "params": {},
+    "fxs": {
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.4,
+              "max": 0.5,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 2,
+    "duration": 1.25,
+    "name": "tb303",
+    "midinote": 60,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 2.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 2.25,
+    "duration": 0.25,
+    "name": "piano",
+    "midinote": 72,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 2.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 2.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 3,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 3,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 3,
+    "duration": 0.75,
+    "name": "piano",
+    "midinote": 70,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 3.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 3.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 3.5,
+    "duration": 0.25,
+    "name": "tb303",
+    "midinote": 58,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 3.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 3.75,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 53,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 3.75,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 58,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 3.75,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 61,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 4,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 4,
+    "name": "shaker",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.25,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.3
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 4,
+    "name": "mk-hats",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.25,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 4,
+    "name": "dl-arcana",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.75,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 4,
+    "name": "conga",
+    "beats": 4,
+    "startBeat": 0,
+    "amp": 0.75,
+    "duration": 0,
+    "midinote": null,
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.25
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 4,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 4,
+    "duration": 1,
+    "name": "bass8",
+    "midinote": 58,
+    "amp": 0.7,
+    "params": {},
+    "fxs": {
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.4,
+              "max": 0.5,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 4,
+    "duration": 0.75,
+    "name": "piano",
+    "midinote": 68,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 4.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 4.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 4.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 5,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 5,
+    "duration": 0.25,
+    "name": "tb303",
+    "midinote": 61,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 5,
+    "duration": 0.5,
+    "name": "piano",
+    "midinote": 65,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 5.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 5.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 5.5,
+    "duration": 1.25,
+    "name": "tb303",
+    "midinote": 53,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 5.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 6,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 6,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 6,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 51,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 6,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 55,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 6,
+    "duration": 1,
+    "name": "bass8",
+    "midinote": 56,
+    "amp": 0.7,
+    "params": {},
+    "fxs": {
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.4,
+              "max": 0.5,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 6,
+    "duration": 0.75,
+    "name": "lead",
+    "midinote": 60,
+    "amp": 0.2,
+    "params": {
+      "rel": {
+        "value": 0.15
+      },
+      "sus": {
+        "value": 0.25
+      }
+    },
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 0.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.3,
+              "max": 0.45,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 6.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 6.25,
+    "duration": 0.25,
+    "name": "piano",
+    "midinote": 68,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 6.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 6.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 7,
+    "duration": 1,
+    "name": "bd_haus",
+    "amp": 0.75,
+    "midinote": null,
+    "fxs": {},
+    "track": null
+  },
+  {
+    "beat": 7,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 7,
+    "duration": 0.25,
+    "name": "tb303",
+    "midinote": 60,
+    "amp": 0.75,
+    "params": {
+      "wave": {
+        "value": 0
+      },
+      "start": {
+        "value": 200
+      },
+      "cutoff": {
+        "comp": {
+          "min": 100,
+          "max": 750,
+          "length": 8,
+          "startBeat": 0
+        }
+      },
+      "sus": {
+        "value": 0.1
+      }
+    },
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "value": 5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 1
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.45,
+              "max": 0.35,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 2
+  },
+  {
+    "beat": 7.25,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 7.25,
+    "duration": 0.25,
+    "name": "piano",
+    "midinote": 72,
+    "amp": 0.75,
+    "params": {},
+    "fxs": {
+      "waveDist": {
+        "name": "waveDist",
+        "params": {
+          "shape": {
+            "value": 1.5
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      },
+      "djf": {
+        "name": "djf",
+        "params": {
+          "cutoff": {
+            "comp": {
+              "min": 0.35,
+              "max": 0.45,
+              "length": 6,
+              "startBeat": 0
+            }
+          }
+        }
+      }
+    },
+    "track": 1
+  },
+  {
+    "beat": 7.5,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.25,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  },
+  {
+    "beat": 7.75,
+    "duration": 0.25,
+    "name": "hhc",
+    "amp": 0.5,
+    "midinote": null,
+    "fxs": {
+      "dist": {
+        "name": "dist",
+        "params": {
+          "drive": {
+            "comp": {
+              "min": 0.05,
+              "max": 0.1,
+              "length": 8,
+              "startBeat": 0
+            }
+          }
+        }
+      },
+      "chop": {
+        "name": "chop",
+        "params": {
+          "sus": {
+            "value": 0.5714285714285714
+          },
+          "chop": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "track": null
+  }
+]
