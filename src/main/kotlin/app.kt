@@ -4,14 +4,13 @@ import kotlinx.coroutines.launch
 import kotlinx.css.*
 import kotlinx.html.js.onClickFunction
 import react.RProps
+import react.dom.h1
+import react.dom.h2
 import react.dom.tr
 import react.functionalComponent
 import react.useEffect
 import react.useState
-import styled.css
-import styled.styledDiv
-import styled.styledTable
-import styled.styledTd
+import styled.*
 
 external interface NoteProps : RProps {
     var synth: String?
@@ -75,6 +74,7 @@ val App = functionalComponent<RProps> { _ ->
     styledDiv {
         css {
             margin = "auto"
+            fontFamily = "Roboto"
         }
 
         styledTable {
@@ -87,9 +87,17 @@ val App = functionalComponent<RProps> { _ ->
             tr {
                 styledTd {
                     css {
-                        width = 50.px
+                        width = 35.px
                     }
                     +" "
+                }
+
+                styledTd {
+                    css {
+                        width = 125.px
+                        fontSize = 24.px
+                    }
+                    +"● punkt"
                 }
 
                 notes.synths.forEach { synthName ->
@@ -126,7 +134,7 @@ val App = functionalComponent<RProps> { _ ->
                 css {
                     borderSpacing = 0.px
                 }
-                (96 downTo 24).forEach { midinote ->
+                (84 downTo 24).forEach { midinote ->
                     tr {
                         styledTd {
                             css {
