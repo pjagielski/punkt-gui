@@ -1,3 +1,6 @@
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class Note(
     val beat: Double,
     val duration: Double,
@@ -5,6 +8,15 @@ data class Note(
     val amp: Double,
     val name: String
 )
+
+@Serializable
+data class TickData(
+    val bar: Long,
+    val beat: Double,
+    val millisPerBeat: Long
+) {
+    fun tickLength(targetStep: Double) = (millisPerBeat * targetStep).toInt()
+}
 
 fun isSynth(note: Note) = note.midinote != null
 
